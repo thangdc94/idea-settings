@@ -1,5 +1,6 @@
 <application>
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_ID" value="73d13edf-46c0-47dd-aea5-d170d792b5c0" />
+    <option name="COMPILE_SERVER_SDK" value="1.8" />
   </component>
 </application>
